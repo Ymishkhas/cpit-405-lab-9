@@ -1,0 +1,28 @@
+nav {
+    background-color: whitesmoke;
+    margin: -8px;
+    margin-bottom: 32px;
+    padding: 16px;
+    box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px;
+}
+
+nav ul {
+    padding: 0px;
+    margin: 0px;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+    padding: 16px 16px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+nav ul li:hover{
+    background-color: gainsboro;
+    border-radius: 5px;
+}
